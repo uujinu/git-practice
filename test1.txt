@@ -3,3 +3,4 @@ feature A
 feature AA
 feature B
 feature BB
+feature A test
